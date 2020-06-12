@@ -10,4 +10,4 @@ If you want to see how install es_extented check here : https://github.com/ESX-O
 
 To do :
 - Fix error with paycheck
-- Translate the salary of double job in all language unless in french & english
+- Translate the salary of double job in all languages unless in french & english
